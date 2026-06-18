@@ -68,6 +68,4 @@ If the remote request fails, the app falls back to the current local array.
 - Final reflection lives in [docs/final-reflection.md](./docs/final-reflection.md)
 - Submission manifest lives in [docs/submission-manifest.md](./docs/submission-manifest.md)
 
-## Current status
 
-This root folder is the main Expo app for the assessment.
