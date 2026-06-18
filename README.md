@@ -92,7 +92,6 @@ If the remote request fails, the app falls back to the current local array.
 - `expo-doctor` passed on 2026-06-13 with no issues detected.
 - Expo export bundling for iOS completed successfully on 2026-06-13.
 - The app includes working navigation, public guest access to the Events page, an account screen with sign-up and sign-in demo states plus a planned Google sign-in path, create-event flow, remote event loading with local fallback, filtering, registration, and settings persistence.
-- Final screenshots or demo evidence still need to be added for submission.
 
 ## Assessment evidence notes
 
