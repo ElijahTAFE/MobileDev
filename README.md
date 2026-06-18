@@ -67,4 +67,4 @@ If the remote request fails, the app falls back to the current local array.
 - Final reflection lives in [docs/final-reflection.md](./docs/final-reflection.md)
 - Submission manifest lives in [docs/submission-manifest.md](./docs/submission-manifest.md)
 
-
+## Dependabot alerts turned on to monitor vulns in the repos resources 
