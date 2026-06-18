@@ -5,7 +5,6 @@ Elevate Horizon Connect is a simple React Native and Expo app for browsing local
 ## Target audience
 
 - Community members who want to check local events
-- Teachers or assessors reviewing the project
 
 ## Core features
 
